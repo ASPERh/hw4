@@ -1,0 +1,17 @@
+void main() 
+{
+	maze_option();
+	generation();
+	removal_enemy();
+	removal_heal();
+	colorwork();
+	positionwork();
+	control();
+	labyrinth_complete();
+	coin_add();
+	coin_infobox();
+	hp_removal();
+	hp_infobox();
+	lose_system();
+	win_system();
+}
